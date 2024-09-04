@@ -1,6 +1,5 @@
-# Drug-GPT
-Drug-GPT is an LLM-based chatbot designed to provide general information on drugs\
-LINK TO DEMO: *redacted*
+# AI-Accountant-Bot
+AI-Accountant is an LLM-based chatbot designed to provide general information onaccounts.
 
 ## Instructions to build and run locally
 
